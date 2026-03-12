@@ -1,0 +1,13 @@
+[33mcommit 3547ba272cf95d7abd2f107b86c3308a0ec04eec[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Thiago Vitor Lorena <thiago.vitor.2067@gmail.com>
+Date:   Thu Mar 12 18:05:15 2026 -0300
+
+    first commit
+
+[1mdiff --git a/teste.txt b/teste.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..06def72[m
+[1m--- /dev/null[m
+[1m+++ b/teste.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32marquivo de teste[m
